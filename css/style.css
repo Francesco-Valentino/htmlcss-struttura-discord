@@ -112,6 +112,14 @@ footer{
     border: white dashed 2px;
 }
 
+footer>section{
+    padding-bottom: 30px;
+}
+
+.footer-last{
+    
+}
+
 #list-column{
     width: 50%;
 }
@@ -123,3 +131,4 @@ footer{
 #reversed{
     flex-direction: row-reverse;
 }
+
