@@ -8,6 +8,10 @@ body{
     font-family: sans-serif;
 }
 
+header{
+    background-color: #ADD8E6;
+}
+
 .wrapper{
     width: 70%;
     margin: 0 auto;
@@ -27,7 +31,6 @@ body{
 }
 
 nav{
-    background-color: #ADD8E6;
     height: 4rem;
 }
 
