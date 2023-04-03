@@ -16,6 +16,7 @@ header>section{
     background-color: #00008B;
     height: 400px;
     margin: auto;
+    padding-top: 3rem;
 }
 
 .wrapper,p,ul{
