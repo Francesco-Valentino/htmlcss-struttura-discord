@@ -65,15 +65,17 @@ li{
 }
 
 .wrapper>.nav-column{
-    width: 15%
+    width: 15%;
 }
 
 .main-column{
     width: 60%;
+    background-color: #1E90FF;
 }
 
 .sec-column{
-    width: 40%
+    width: 40%;
+    background-color: #FFC0CB;
 }
 
 .inner{
