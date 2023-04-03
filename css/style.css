@@ -13,6 +13,10 @@
     display: flex;
 }
 
+.nav-column{
+    background-color: #DAA520;
+}
+
 nav{
     background-color: #ADD8E6;
 }
