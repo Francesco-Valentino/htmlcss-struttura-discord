@@ -40,8 +40,9 @@ header>section{
 
 .jumbo{
     width: 60%;
-    height: 80%;
+    height: 350px;
     background-color: #EE82EE;
+    margin: auto;
 }
 
 nav{
