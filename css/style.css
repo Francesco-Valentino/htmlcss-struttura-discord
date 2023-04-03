@@ -15,6 +15,8 @@ header{
 .wrapper{
     width: 70%;
     margin: 0 auto;
+    justify-content: center;
+    padding-top: 0.7rem;
 }
 
 .flex{
@@ -34,13 +36,22 @@ nav{
     height: 4rem;
 }
 
+p,ul{
+    padding-top: 0.7rem;
+    justify-content: center;
+}
+
 ul{
     list-style-type: none;
+}
+li{
+    padding-left: 1rem;
 }
 
 .wrapper>.nav-column{
     width: 15%
 }
+
 
 #list-column{
     width: 50%;
