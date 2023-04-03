@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body{
+    font-family: sans-serif;
+}
+
 .wrapper{
     width: 70%;
     margin: 0 auto;
