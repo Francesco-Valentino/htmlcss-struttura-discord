@@ -56,6 +56,9 @@ nav{
     padding-top: 2rem;
 }
 
+#bigger-wrapper{
+    height: 1300px;
+}
 
 ul{
     list-style-type: none;
@@ -85,6 +88,7 @@ li{
 
 .big-green{
     background-color: #228B22;
+    height: 1200px;
 }
 
 
@@ -92,7 +96,7 @@ li{
     width: 50%;
 }
 
-#variant{
+.variant{
     background-color: #d3d3d3;
 }
 
