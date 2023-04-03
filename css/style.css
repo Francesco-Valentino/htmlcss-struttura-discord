@@ -17,6 +17,10 @@ body{
     display: flex;
 }
 
+.dashed{
+    border: 1px black dashed;
+}
+
 .nav-column{
     background-color: #DAA520;
     height: 2.5rem;
