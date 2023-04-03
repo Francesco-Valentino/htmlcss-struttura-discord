@@ -31,7 +31,7 @@ header>section{
 }
 
 .dashed{
-    border: 3px black dashed;
+    border: 2px black dashed;
 }
 
 .nav-column{
@@ -97,7 +97,20 @@ footer{
     height: 500px;
 }
 
-.footer-column
+.footer-column-big{
+    width: 30%;
+    background-color: #F08080;
+}
+
+.footer-columns{
+    width: 70%;
+}
+
+.single-column{
+    width: 25%;
+    background-color: #20B2AA;
+    border: white dashed 2px;
+}
 
 #list-column{
     width: 50%;
