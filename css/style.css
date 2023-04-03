@@ -53,6 +53,7 @@ nav{
 .big-wrapper{
     background-color: white;
     height: 500px;
+    padding-top: 2rem;
 }
 
 
@@ -91,3 +92,6 @@ li{
     background-color: #d3d3d3;
 }
 
+#reversed{
+    flex-direction: row-reverse;
+}
