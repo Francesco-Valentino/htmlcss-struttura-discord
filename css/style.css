@@ -50,9 +50,15 @@ nav{
     height: 4rem;
 }
 
+.big-wrapper{
+    background-color: white;
+    height: 500px;
+}
+
 ul{
     list-style-type: none;
 }
+
 li{
     padding-left: 1rem;
 }
