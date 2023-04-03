@@ -34,3 +34,7 @@ nav{
 ul{
     list-style-type: none;
 }
+
+#list-column{
+    width: 60%;
+}
