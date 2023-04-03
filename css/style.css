@@ -68,6 +68,10 @@ li{
     width: 15%
 }
 
+.inner{
+    height: 400px;
+}
+
 
 #list-column{
     width: 50%;
