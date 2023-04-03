@@ -94,11 +94,10 @@ li{
 
 footer{
     background-color: #23272A;
-}
-
-.footer-column{
     height: 500px;
 }
+
+.footer-column
 
 #list-column{
     width: 50%;
