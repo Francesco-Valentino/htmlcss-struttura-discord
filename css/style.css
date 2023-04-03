@@ -38,6 +38,12 @@ header>section{
     height: 2.5rem;
 }
 
+.jumbo{
+    width: 60%;
+    height: 80%;
+    background-color: #EE82EE;
+}
+
 nav{
     height: 4rem;
 }
