@@ -68,6 +68,14 @@ li{
     width: 15%
 }
 
+.main-column{
+    width: 60%;
+}
+
+.sec-column{
+    width: 40%
+}
+
 .inner{
     height: 400px;
 }
