@@ -12,6 +12,12 @@ header{
     background-color: #ADD8E6;
 }
 
+header>section{
+    background-color: #00008B;
+    height: 400px;
+    margin: auto;
+}
+
 .wrapper,p,ul{
     width: 70%;
     margin: 0 auto;
