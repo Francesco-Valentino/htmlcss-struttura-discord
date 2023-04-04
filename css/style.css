@@ -131,6 +131,9 @@ footer>section{
 
 .button{
     background-color: #d3d3d3;
+    width: 7%;
+    height: 2rem;
+    align-items: center;
 }
 
 #list-column{
